@@ -5,9 +5,9 @@ Its a connect4 game made using numpy and pygame
 
 
 ## Screenshots
-![cmd array](images/connect%204%20array.jpg)
+![](/img/connect%20four%20array.jpg)
 
-![gui](images/connect 4 gui.jpg)
+![gui](/img/connect%20four%20gui.jpg)
 
 
 
